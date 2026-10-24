@@ -1,4 +1,4 @@
-# Привет, я ninelegsdog 👋
+# Ninelegsdog 👋
 
 **AI Automation Engineer** | Agentic harness & context engineering | Quality gates & verification | 9 Telegram bots in production
 
