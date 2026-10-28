@@ -1,6 +1,8 @@
-# Ninelegsdog 👋
+# Инженерия агентных систем
 
-**AI Automation Engineer** | Agentic harness & context engineering | Quality gates & verification | 9 Telegram bots in production
+*От спецификации до проверенного результата.*
+
+**AI Automation Engineer** · Agentic harness & context engineering · Quality gates & verification · 9 Telegram bots in production
 
 Экосистема **BotKit** — production-ready Telegram-боты, общие библиотеки и инструменты для агентной разработки с выстроенными гейтами качества.
 
