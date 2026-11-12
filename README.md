@@ -1,50 +1,51 @@
-# Инженерия агентных систем
+# Oleg Rodionov — AI Automation Engineer
 
-*От спецификации до проверенного результата.*
+## 🇬🇧 English (primary)
 
-**AI Automation Engineer** · Agentic harness & context engineering · Quality gates & verification
+**AI Automation Engineer** · Agent Infrastructure · Event-Driven Systems · Quality Gates & Verification
 
-## Принципы
+I build production-grade Telegram bots and agent infrastructure — from specification to verified result. Not just code: requirements, decomposition, testing, quality control, and delivery.
 
-- **Harness-driven** — Качество агента определяется не моделью, а harness + acceptance criteria + гейтами
-- **Verification-first** — Тест обязан уметь падать. «Зелёный CI» ≠ рабочий продукт
-- **Evidence-first** — Артефакты падения, трассировки, проверки перед коммитом
-- **Production-minded** — Docker security hardening, наблюдаемость, бэкапы, гейты
+**Open to:** contract / full-time / remote · Russia (GMT+3) · Worldwide remote
 
-### Инструменты качества и методология
-- **[qualityforge](https://github.com/ninelegsdog/qualityforge)** — Evidence-first browser quality automation с read-only MCP сервером
-- **[qualityforge-template](https://github.com/ninelegsdog/qualityforge-template)** — Готовый шаблон с quality gates из коробки
-- **[agentic-development-playbook](https://github.com/ninelegsdog/agentic-development-playbook)** — Методология работы с AI-агентами: harness, context engineering, гейты, ревью, handoff
-  
-Экосистема **BotKit** — production-ready Telegram-боты, общие библиотеки и инструменты для агентной разработки с выстроенными гейтами качества.
+### What ships in production
 
-## Экосистема BotKit
+- **9 Telegram bots in production** — booking with YooKassa payments, store, leadgen, support with SLA, membership, pricesentry, delivery, reminder, docuflow.
+- **qualityforge@0.2.3** — evidence-first browser QA + read-only MCP server for AI agents (npm, Official MCP Registry, Glama, mcprush grade A).
+- **agentic-development-playbook** — agent harness & context engineering methodology.
 
-### Ядро
-- **[botkit-core](https://github.com/ninelegsdog/botkit-core)** — Общее ядро для всех ботов: платежи, метрики, логирование, вебхук, ошибки, трейсинг. Side-effect-free, инжекция зависимостей.
+### Tech stack
 
-### Боты в продакшене (9 штук)
-- **[botkit-bookingbot](https://github.com/ninelegsdog/botkit-bookingbot)** — Бронирование и запись с оплатой YooKassa
-- **[botkit-store](https://github.com/ninelegsdog/botkit-store)** — Каталог, корзина, оформление заказа
-- **[botkit-leadgen](https://github.com/ninelegsdog/botkit-leadgen)** — Квалификация и сбор лидов
-- **[botkit-support](https://github.com/ninelegsdog/botkit-support)** — Тикеты, FAQ, SLA с рабочими часами
-- **[botkit-membership](https://github.com/ninelegsdog/botkit-membership)** — Подписки, доступ по ролям, оплата
-- **[botkit-reminder](https://github.com/ninelegsdog/botkit-reminder)** — Напоминания и сегментированные рассылки
-- **[botkit-docuflow](https://github.com/ninelegsdog/botkit-docuflow)** — Документооборот, генерация PDF
-- **[botkit-pricesentry](https://github.com/ninelegsdog/botkit-pricesentry)** — Мониторинг цен и алерты
-- **[botkit-delivery](https://github.com/ninelegsdog/botkit-delivery)** — Отслеживание доставки с вебхуками
+`Python 3.12` · `aiogram 3` · `SQLAlchemy 2 (async)` · `Redis` · `Postgres/SQLite` · `Docker` · `Prometheus/Grafana/Loki/Tempo` · `pytest/ruff/mypy` · `Playwright` · `OpenTelemetry` · `TypeScript` · `MCP (2026-07-28)`
 
-### Инфраструктура и тестирование
-- **[botkit-monitoring](https://github.com/ninelegsdog/botkit-monitoring)** — Observability стек: Prometheus, Grafana, Loki, Tempo, Alertmanager, OTel, MinIO
-- **[botkit-farm](https://github.com/ninelegsdog/botkit-farm)** — Тестирование настоящего кода бота без Telegram. Прогон хендлеров, кадры диалога, баг-репорты
-- **[cookiecutter-botkit-bot](https://github.com/ninelegsdog/cookiecutter-botkit-bot)** — Шаблон для быстрого старта нового бота
+### 📬 Contact
 
-## Стек
+**Telegram:** [@ninelegsdog](https://t.me/ninelegsdog)  
+**Email:** ninelegsdog@gmail.com  
+**GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)
 
-`Python 3.12` · `aiogram 3` · `SQLAlchemy 2 (async)` · `Redis` · `Postgres/SQLite` · `Docker` · `Prometheus/Grafana/Loki/Tempo` · `pytest/ruff/mypy` · `Playwright` · `OpenTelemetry`
+---
 
-## Контакты
+## 🇷🇺 Русский (второй язык)
 
-- **Telegram:** [@ninelegsdog](https://t.me/ninelegsdog)
-- **Канал:** [@BotogradPress](https://t.me/BotogradPress)
-- **GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)
+**Инженер по автоматизации с использованием ИИ · Агентная инфраструктура · Событийно-ориентированные системы · Гейты качества**
+
+Создаю Telegram-ботов и агентную автоматизацию «под ключ»: от спецификации до проверенного результата. Не просто код — требования, декомпозиция, тестирование, контроль качества и поставка в продакшен.
+
+**Доступен для:** контрактов / полной занятости / удалённой работы · Россия (GMT+3) · Удалённая работа по всему миру
+
+### Что работает в продакшене
+
+- **9 Telegram-ботов в продакшене** — бронирование и запись с оплатой YooKassa, магазин, сбор лидов, поддержка с SLA, подписки, мониторинг цен, доставка, напоминания, документооборот.
+- **qualityforge@0.2.3** — evidence-first браузерный QA + read-only MCP-сервер для AI-агентов (npm, Official MCP Registry, Glama, mcprush оценка A).
+- **agentic-development-playbook** — методология работы с AI-агентами: harness, context engineering, гейты, ревью, handoff.
+
+### Стек
+
+`Python 3.12` · `aiogram 3` · `SQLAlchemy 2 (async)` · `Redis` · `Postgres/SQLite` · `Docker` · `Prometheus/Grafana/Loki/Tempo` · `pytest/ruff/mypy` · `Playwright` · `OpenTelemetry` · `TypeScript` · `MCP (2026-07-28)`
+
+### 📬 Контакты
+
+**Telegram:** [@ninelegsdog](https://t.me/ninelegsdog)  
+**Почта:** ninelegsdog@gmail.com  
+**GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)
