@@ -1,38 +1,4 @@
-# Oleg Rodionov — AI Automation Engineer
-
-## 🇬🇧 English (primary)
-
-**AI Automation Engineer** · Agent Infrastructure · Event-Driven Systems · Quality Gates & Verification
-
-I build production-grade Telegram bots and agent infrastructure — from specification to verified result. Not just code: requirements, decomposition, testing, quality control, and delivery.
-
-**Open to:** contract / full-time / remote · Russia (GMT+3) · Worldwide remote
-
-### What I ship in production
-
-- **9 Telegram bots in production** — booking with YooKassa payments, store, leadgen, support with SLA, membership, pricesentry, delivery, reminder, docuflow. Zero double-booking incidents for 6+ months via atomic slot locking.
-- **qualityforge@0.2.3** — evidence-first browser QA + read-only MCP server for AI agents (npm, Official MCP Registry, Glama, mcprush grade A).
-- **agentic-development-playbook** — agent harness & context engineering methodology.
-
-### Evidence of impact
-
-- **1537 autotests** across the bot ecosystem, coverage 72–92%.
-- **Zero secrets** in repositories or commit history (age encryption, gitleaks CI gate).
-- **4 npm releases** of qualityforge with zero breaking changes.
-- **9/9 bots healthy** with observability stack (Prometheus, Grafana, Loki, Tempo, Alertmanager, OTel).
-
-### Tech stack
-
-`Python 3.12` · `aiogram 3` · `SQLAlchemy 2 (async)` · `Redis` · `Postgres/SQLite` · `Docker` · `Prometheus/Grafana/Loki/Tempo` · `pytest/ruff/mypy` · `Playwright` · `OpenTelemetry` · `TypeScript` · `MCP (2026-07-28)`
-
-### 📬 Contact
-
-**Telegram:** [@ninelegsdog](https://t.me/ninelegsdog) — main contact  
-**Email:** ninelegsdog@gmail.com  
-**GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)  
-**LinkedIn:** linkedin.com/in/ninelegsdog
-
----
+# Олег Родионов — Инженер по автоматизации с ИИ (Oleg Rodionov)
 
 ## 🇷🇺 Русский (основной язык)
 
@@ -63,5 +29,39 @@ I build production-grade Telegram bots and agent infrastructure — from specifi
 
 **Telegram:** [@ninelegsdog](https://t.me/ninelegsdog) — основной канал связи  
 **Почта:** ninelegsdog@gmail.com  
+**GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)  
+**LinkedIn:** linkedin.com/in/ninelegsdog
+
+---
+
+## 🇬🇧 English (secondary)
+
+**AI Automation Engineer** · Agent Infrastructure · Event-Driven Systems · Quality Gates & Verification
+
+I build production-grade Telegram bots and agent infrastructure — from specification to verified result. Not just code: requirements, decomposition, testing, quality control, and delivery.
+
+**Open to:** contract / full-time / remote · Russia (GMT+3) · Worldwide remote
+
+### What I ship in production
+
+- **9 Telegram bots in production** — booking with YooKassa payments, store, leadgen, support with SLA, membership, pricesentry, delivery, reminder, docuflow. Zero double-booking incidents for 6+ months via atomic slot locking.
+- **qualityforge@0.2.3** — evidence-first browser QA + read-only MCP server for AI agents (npm, Official MCP Registry, Glama, mcprush grade A).
+- **agentic-development-playbook** — agent harness & context engineering methodology.
+
+### Evidence of impact
+
+- **1537 autotests** across the bot ecosystem, coverage 72–92%.
+- **Zero secrets** in repositories or commit history (age encryption, gitleaks CI gate).
+- **4 npm releases** of qualityforge with zero breaking changes.
+- **9/9 bots healthy** with observability stack (Prometheus, Grafana, Loki, Tempo, Alertmanager, OTel).
+
+### Tech stack
+
+`Python 3.12` · `aiogram 3` · `SQLAlchemy 2 (async)` · `Redis` · `Postgres/SQLite` · `Docker` · `Prometheus/Grafana/Loki/Tempo` · `pytest/ruff/mypy` · `Playwright` · `OpenTelemetry` · `TypeScript` · `MCP (2026-07-28)`
+
+### 📬 Contact
+
+**Telegram:** [@ninelegsdog](https://t.me/ninelegsdog) — main contact  
+**Email:** ninelegsdog@gmail.com  
 **GitHub:** [github.com/ninelegsdog](https://github.com/ninelegsdog)  
 **LinkedIn:** linkedin.com/in/ninelegsdog
