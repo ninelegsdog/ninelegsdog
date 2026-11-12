@@ -6,7 +6,7 @@
 
 Создаю Telegram-ботов и агентную автоматизацию «под ключ»: от спецификации до проверенного результата. Не просто код — требования, декомпозиция, тестирование, контроль качества и поставка в продакшен.
 
-**Доступен для:** контрактов / полной занятости / удалённой работы · Россия (GMT+3) · Удалённая работа по всему миру
+**Доступен для:** контрактов / полной занятости / удалённой работы
 
 ### Что работает в продакшене
 
@@ -40,7 +40,7 @@
 
 I build production-grade Telegram bots and agent infrastructure — from specification to verified result. Not just code: requirements, decomposition, testing, quality control, and delivery.
 
-**Open to:** contract / full-time / remote · Russia (GMT+3) · Worldwide remote
+**Open to:** contract / full-time / remote
 
 ### What I ship in production
 
