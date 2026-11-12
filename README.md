@@ -1,6 +1,4 @@
-# Олег Родионов — Инженер по автоматизации с ИИ (Oleg Rodionov)
-
-## 🇷🇺 Русский (основной язык)
+# Олег Родионов — Инженер по автоматизации
 
 **Инженер по автоматизации с использованием ИИ** · Агентная инфраструктура · Событийно-ориентированные системы · Гейты качества
 
@@ -33,8 +31,6 @@
 **LinkedIn:** linkedin.com/in/ninelegsdog
 
 ---
-
-## 🇬🇧 English (secondary)
 
 **AI Automation Engineer** · Agent Infrastructure · Event-Driven Systems · Quality Gates & Verification
 
