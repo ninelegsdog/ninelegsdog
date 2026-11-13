@@ -38,7 +38,7 @@ Experience with Python, Java, PHP, JavaScript, SQL, and Linux allows me to criti
 
 ### «9 Bots» Series — typical business tasks in Telegram
 
-All nine bots run in production: webhook, TLS, health-check, autorestart, observability. **Over 1000 tests** implemented.
+All nine bots run in production: webhook, TLS, health-check, autorestart, observability. **1537 tests** implemented.
 
 | Bot | Task | Live |
 |---|---|---|
@@ -110,13 +110,13 @@ Web client for the main application, integration projects, business automation.
 
 ## Projects and Channel
 
-- Repositories: [github.com/ninelegsdog](https://github.com/ninelegsdog) (15+ public)
+- Repositories: [github.com/ninelegsdog](https://github.com/ninelegsdog) (20 public)
 - AI development process: [agentic-development-playbook](https://github.com/ninelegsdog/agentic-development-playbook)
 - Project review channel: [Ботоград · @BotogradPress](https://t.me/BotogradPress)
 
 ### «9 Bots» Series — typical business tasks in Telegram (production)
 
-All nine bots run in production: webhook, TLS, health-check, autorestart, observability, backups. **Over 1000 tests** implemented.
+All nine bots run in production: webhook, TLS, health-check, autorestart, observability, backups. **1537 tests** implemented.
 
 | Bot | Task | Live |
 |---|---|---|
@@ -134,7 +134,7 @@ Message any of them to see how they work.
 
 ### QualityForge — evidence-first browser QA
 
-Public npm package `qualityforge@0.2.0`: normalised defect artefacts (trace, screenshot, video) in one schema, quality gate with thresholds, console/network/page-error signal capture, read-only MCP server. Evidence pipeline between a failing run and any agent. 15 test files, 13 documents, CI, four npm releases.
+Public npm package `qualityforge@0.2.3`: normalised defect artefacts (trace, screenshot, video) in one schema, quality gate with thresholds, console/network/page-error signal capture, read-only MCP server. Evidence pipeline between a failing run and any agent. 15 test files, 13 documents, CI, four npm releases.
 
 Repository: [github.com/ninelegsdog/qualityforge](https://github.com/ninelegsdog/qualityforge)
 
